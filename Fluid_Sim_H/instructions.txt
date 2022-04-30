@@ -1,0 +1,10 @@
+1-> open de proyect.
+2-> run the code.
+3-> in the terminal put ( python fluid.py ) when the address of the proyect is.
+ 
+4-> when the simulation finishes it will appear in the folder.
+
+Color list:
+CMRmap
+ocean
+twilight_shifted
